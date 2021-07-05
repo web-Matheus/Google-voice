@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+section{
+    margin: auto;
+    background: rgb(151, 153, 149);
+    height: 60vh;
+}
+input{
+    width: 400px;
+    height: 5vh;
+    display: block;
+    margin:0 auto;
+    text-align: center;
+}
+
+button{
+    display: block;
+   margin: auto;
+   margin-top: 100px;
+   padding: 1rem;
+   border-radius: 10px;
+   border: none;
+   cursor: pointer;
+}
